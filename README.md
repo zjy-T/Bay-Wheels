@@ -49,6 +49,6 @@ This section was intended for exploratory and explanatory data visualization and
 
 # Useful resources:
 
-•	Programmatically downloading zip files (https://stackoverflow.com/a/14260592) \n
-•	Programmatically concatenating multiple files (https://stackoverflow.com/a/21232849) \n
-•	Distance calculation based on coordinate points (https://stackoverflow.com/a/44446971) \n
+1. Programmatically downloading zip files (https://stackoverflow.com/a/14260592)
+2. Programmatically concatenating multiple files (https://stackoverflow.com/a/21232849) 
+3. Distance calculation based on coordinate points (https://stackoverflow.com/a/44446971) 
