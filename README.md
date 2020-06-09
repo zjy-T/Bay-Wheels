@@ -1,7 +1,8 @@
 # An Analysis of the Bay Wheels Bike Share System Data
 Author: Jiayi Zhang
 
-# Scope #: Data wrangling and visual analysis was performed on a dataset of over 5 million, containing various data collected between 2017 and 2020 by the Bay Wheel bike share platform. The four steps of this wrangling effort will be briefly summarized below.
+# Scope:
+Data wrangling and visual analysis was performed on a dataset of over 5 million, containing various data collected between 2017 and 2020 by the Bay Wheel bike share platform. The four steps of this wrangling effort will be briefly summarized below.
 
 # Step 1: Data Gathering
 
@@ -48,6 +49,6 @@ This section was intended for exploratory and explanatory data visualization and
 
 # Useful resources:
 
-•	Programmatically downloading zip files (https://stackoverflow.com/a/14260592)
-•	Programmatically concatenating multiple files (https://stackoverflow.com/a/21232849)
-•	Distance calculation based on coordinate points (https://stackoverflow.com/a/44446971)
+•	Programmatically downloading zip files (https://stackoverflow.com/a/14260592) \n
+•	Programmatically concatenating multiple files (https://stackoverflow.com/a/21232849) \n
+•	Distance calculation based on coordinate points (https://stackoverflow.com/a/44446971) \n
